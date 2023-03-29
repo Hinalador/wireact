@@ -1,0 +1,267 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(231, 231, 231) !important;
+}
+
+header{
+    position: fixed;
+}
+
+HTML{
+    scroll-behavior: smooth;
+}
+
+@font-face{
+    font-family: carolingia;
+    src: url('../Fonts/carolingia.ttf');
+}
+
+@font-face {
+    font-family: Abel;
+    src: url('../Fonts/Abel-Regular.ttf');
+}
+
+.img1{
+    width: 30%;
+    padding-left: 10px;
+}
+
+.nav-item{
+    width: 176px;
+    height: 50px;
+} 
+
+.a1{
+    text-decoration: none !important;
+    padding: 0.6em 3.5em !important;
+    font-family: Abel !important;
+    color: white !important;
+    background-color: #801810 !important;
+}
+
+.a1:hover {
+    background-color: #B21F1A !important;
+}
+
+.a1:active {
+    background-color: #E32524 !important;
+}
+
+.achedos{
+    color: #801810 !important;
+    font-family: Abel;
+    font-size: 50px;
+    margin-top: 25px;
+}
+
+.parr1{
+    font-family: Abel;
+    font-size: 25px;
+    color: white;
+    text-align: justify;
+}
+
+.parr2{
+    font-family: Abel;
+    font-size: 25px;
+    color: white;
+    text-align: justify;
+}
+
+h2{
+    color: white;
+    font-family: carolingia;
+}
+
+.img2{
+    max-width: 250px;
+}
+
+.rou{
+    min-height: 350px;
+    max-height: 550px;
+    margin-bottom: 140px;
+}
+
+.txto{
+    color: #B21F1A;
+    font-family: Abel;
+}
+
+.ligoleye{
+    color: #B21F1A;
+    font-size: 40px;
+    margin: 0;
+}
+
+#contSEXO{
+    max-width: 250px;
+}
+
+.card{
+    background-color: rgb(231, 231, 231);
+}
+
+.modal-content{
+    background-color: rgb(231, 231, 231);
+}
+
+.card-text{
+    text-align: justify;
+    font-family: Abel;
+}
+
+.aaa{
+    font-family: Abel;
+    color: #B21F1A;
+}
+
+#sect2{
+    height: 100vh !important;
+}
+
+#sect3{
+    background-image: url('../assets/Bobber-motorcycle_1920x1080.jpg');
+    max-height: 200vh !important;
+    min-height: 110vh !important;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.sinco{
+    height: 100vh;
+}
+
+.boto{
+    background-color: rgba(128, 24, 16, 0.8) !important;
+    color: rgb(212, 212, 212) !important;
+    padding: 1em 5em !important;
+    font-family: Abel !important;
+    font-size: 30px !important;
+    text-align: center;
+}
+
+.boto:hover{
+    color: white !important;
+    background-color: rgba(128, 23, 16, 0.918) !important;
+}
+
+footer{
+    background-color: rgba(121, 121, 121, 0.624);
+}
+
+.iconfoot{
+    width: 50%;
+}
+
+.foottitl{
+    font-family: Abel;
+    color: #B21F1A;
+}
+
+.textorojo{
+    font-family: Abel;
+    color: #B21F1A;
+}
+
+.numero{
+    font-family: Abel;
+    color: white;
+}
+
+.redcont{
+    display: flex;
+}
+
+.icon{
+    width: 40%;
+}
+
+.grupo2{
+    background-color: rgb(139, 139, 139);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    font-family: Abel;
+}
+
+.imgerr{
+    width: 70%;
+    border-radius: 7px;
+}
+
+.imagerr2{
+    width: 70%;
+    border-radius: 7px;
+}
+
+.diverr{
+    padding: 0;
+}
+
+.diverr2{
+    padding: 0;
+}
+
+.ache1err{
+    font-family: Abel;
+    color: #B21F1A;
+}
+
+.ache1err2{
+    font-family: Abel;
+    color: #B21F1A;
+}
+
+.ache3err{
+    font-family: Abel;
+    color: #B21F1A;
+}
+
+.ache3err2{
+    font-family: Abel;
+    color: #B21F1A;
+}
+
+.ache5err{
+    font-family: Abel;
+    color: #B21F1A;
+}
+
+ache5err2{
+    font-family: Abel !important;
+    color: #B21F1A !important;
+}
+
+.ache5err3{
+    font-family: Abel;
+    color: #B21F1A;
+}
+
+.parrer{
+    text-align: justify;
+    padding: 2rem;
+    font-family: Abel;
+    font-size: 15pt;
+}
+
+.parrer2{
+    font-family: Abel;
+    text-align: justify;
+}
+
+.parrer3{
+    font-family: Abel;
+    text-align: justify;
+}
+
+.parrer4{
+    font-family: Abel;
+    text-align: justify;
+}
+
