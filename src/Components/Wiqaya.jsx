@@ -53,10 +53,6 @@ function Wiqaya(props) {
                     </div>
                 </div>
             </header>
-            
-
-            
-            
         </div>
     );
 }

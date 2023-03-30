@@ -3,6 +3,9 @@ import Wiqaya from './Components/Wiqaya.jsx'
 import Sect1 from './Components/Sect1.jsx'
 import Sect2 from './Components/Sect2.jsx'
 import Sect3 from './Components/Sect3.jsx'
+import Sect4 from './Components/Sect4.jsx'
+import Sect5 from './Components/Sect5.jsx'
+import Footer from './Components/Footer.jsx'
 
 function App() {
   return (
@@ -30,10 +33,24 @@ function App() {
       />
 
       <Sect2 
-        juama='Juan Manuel'
-        sant='Santiago'
+        equipo="Equipo Wiqaya"
       />
-      <Sect3 />
+
+      <Sect3 
+        que="¿Que es wiqaya?"
+      />
+
+      <Sect4 
+        personajes="Personajes Wiqaya"
+      />
+
+      <Sect5 
+        jugar="JUGAR AHORA!"
+      />
+
+      <Footer 
+        sigue="SIGUENOS EN"
+      />
 
     </div>
   )

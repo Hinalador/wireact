@@ -53,6 +53,7 @@ function Sect1(props) {
                     </div>
                 </div>
             </section>
+            <hr />
         </div>
     )
 }

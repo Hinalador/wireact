@@ -78,13 +78,8 @@ h2{
     font-family: carolingia;
 }
 
-.img2{
-    max-width: 250px;
-}
-
 .rou{
-    min-height: 350px;
-    max-height: 550px;
+    height: 100vh;
     margin-bottom: 140px;
 }
 
@@ -95,6 +90,7 @@ h2{
 
 .ligoleye{
     color: #B21F1A;
+    font-family: Abel;
     font-size: 40px;
     margin: 0;
 }
